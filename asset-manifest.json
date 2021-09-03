@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SmoothHiringLogin/static/css/main.7dd0f342.chunk.css",
+    "main.js": "/SmoothHiringLogin/static/js/main.f0d7efe7.chunk.js",
+    "main.js.map": "/SmoothHiringLogin/static/js/main.f0d7efe7.chunk.js.map",
+    "runtime-main.js": "/SmoothHiringLogin/static/js/runtime-main.0eaf0303.js",
+    "runtime-main.js.map": "/SmoothHiringLogin/static/js/runtime-main.0eaf0303.js.map",
+    "static/js/2.3ddee87c.chunk.js": "/SmoothHiringLogin/static/js/2.3ddee87c.chunk.js",
+    "static/js/2.3ddee87c.chunk.js.map": "/SmoothHiringLogin/static/js/2.3ddee87c.chunk.js.map",
+    "index.html": "/SmoothHiringLogin/index.html",
+    "static/css/main.7dd0f342.chunk.css.map": "/SmoothHiringLogin/static/css/main.7dd0f342.chunk.css.map",
+    "static/js/2.3ddee87c.chunk.js.LICENSE.txt": "/SmoothHiringLogin/static/js/2.3ddee87c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eaf0303.js",
+    "static/js/2.3ddee87c.chunk.js",
+    "static/css/main.7dd0f342.chunk.css",
+    "static/js/main.f0d7efe7.chunk.js"
+  ]
+}
